@@ -1,0 +1,8 @@
+C:/TouchGFXProjects/Project_IOT_TEST2/Core/Src/main.c:891:6:StartDefaultTask	1
+C:/TouchGFXProjects/Project_IOT_TEST2/Core/Src/main.c:135:1:__io_putchar	1
+C:/TouchGFXProjects/Project_IOT_TEST2/Core/Src/main.c:141:1:__io_getchar	1
+C:/TouchGFXProjects/Project_IOT_TEST2/Core/Src/main.c:155:7:ADC_to_Celsius	1
+C:/TouchGFXProjects/Project_IOT_TEST2/Core/Src/main.c:338:6:SystemClock_Config	1
+C:/TouchGFXProjects/Project_IOT_TEST2/Core/Src/main.c:179:5:main	7
+C:/TouchGFXProjects/Project_IOT_TEST2/Core/Src/main.c:948:6:HAL_TIM_PeriodElapsedCallback	2
+C:/TouchGFXProjects/Project_IOT_TEST2/Core/Src/main.c:965:6:Error_Handler	1
